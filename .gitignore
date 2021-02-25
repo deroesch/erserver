@@ -7,3 +7,6 @@ ERServer.iml
 /fitnesse/FitNesseRoot/files/
 /target/
 /fitnesse/FitNesseRoot/TemplateLibrary/
+/.settings/
+/.classpath
+/.project
